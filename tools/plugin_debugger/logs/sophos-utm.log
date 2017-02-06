@@ -1,0 +1,1 @@
+2017:02:02-23:33:32 vpn-1 ulogd[3519]: id="2001" severity="info" sys="SecureNet" sub="packetfilter" name="Packet dropped" action="drop" fwrule="60001" initf="eth0" srcmac="12:30:52:cf:c9:73" dstmac="12:67:ae:07:0a:f1" srcip="192.96.41.123" dstip="10.104.255.2" proto="17" length="438" tos="0x00" prec="0x00" ttl="48" srcport="5302" dstport="5061"
